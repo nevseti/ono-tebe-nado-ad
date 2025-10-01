@@ -238,7 +238,7 @@ body {
   display: grid;
   grid-template-columns: 334px 1fr;
   gap: 25px;
-  margin: 0px 24px 180px;  
+  margin: 0px 180px;  
 }
 
 .about__column {
@@ -303,8 +303,6 @@ body {
 
 .footer__menu-list {
   list-style: none;
-  margin: 0;  
-  padding: 0;
   text-align: center;
 }
 
