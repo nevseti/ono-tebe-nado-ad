@@ -238,7 +238,7 @@ body {
   display: grid;
   grid-template-columns: 334px 1fr;
   gap: 25px;
-  margin: 0px 24px 180px 24px;  
+  margin: 0px 24px 180px;  
 }
 
 .about__column {
@@ -274,7 +274,8 @@ body {
 } 
 
 /* footer */
-.footer { 
+
+.footer {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   padding-bottom: 90px;
